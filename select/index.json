@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "FLOOR KILLER（feat. ペコ、KennyDoes、Cosaqu、テークエム）",
+  "base_artist": "梅田サイファー",
+  "createdAt": "2026-01-13T12:36:28.300173Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FLOOR KILLER",
+      "artist": "梅田サイファー",
+      "has_synced": false,
+      "path": "select/pl_01_FLOOR_KILLER_梅田サイファー.txt"
+    }
+  ]
+}
